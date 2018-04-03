@@ -1,2 +1,2 @@
 # Vindiata
-Case Study Answer
+A proposed solution to a Case study :)
